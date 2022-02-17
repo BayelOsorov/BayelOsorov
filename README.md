@@ -37,9 +37,9 @@
 
 ### :zap: Statistics:
 
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayelOsorov&langs_count=8&layout=compact&theme=tokyonight" />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayelOsorov&langs_count=8&layout=compact" />
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BayelOsorov&show_icons=true&theme=tokyonight" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BayelOsorov&show_icons=true" />
 
 [telegram]: https://teleg.one/Bayel55
 [youtube]: https://www.youtube.com/channel/UCdD1HXrkoHGbLZLGZjud2qg
