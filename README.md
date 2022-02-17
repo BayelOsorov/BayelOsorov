@@ -35,11 +35,13 @@
 <br />
 <br />
 
+### :zap: Statistics:
+
 <details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayelOsorov&langs_count=8&layout=compact" />
+  <summary></summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayelOsorov&langs_count=8&layout=compact&theme=radical" />
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BayelOsorov&show_icons=true" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BayelOsorov&show_icons=true&theme=radical" />
 </details>
 
 [telegram]: https://teleg.one/Bayel55
